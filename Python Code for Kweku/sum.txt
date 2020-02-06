@@ -1,0 +1,2 @@
+The sum of the first n natural numbers is: 3.0
+The sum of the cubes of the first n natural numbers is: 9.0
